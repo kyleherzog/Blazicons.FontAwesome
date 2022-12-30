@@ -3,6 +3,8 @@ Provides the Font Awesome icon library packaged as [Blazicons](https://github.co
 
 Check out the [Demo Site](http://blazicons.com).
 
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.FontAwesome?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=19&branchName=main)
+
 ## Getting Started
 To get started using the Font Awesome Blazicons, just install the Blazicons.FontAwesome NuGet package.
 
