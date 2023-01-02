@@ -8,7 +8,7 @@
     <Version>0.1</Version>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Blazicons.Generating" Version="0.1.4-alpha" PrivateAssets="all" GeneratePathProperty="true" />
+    <PackageReference Include="Blazicons.Generating" Version="1.0.7-alpha" PrivateAssets="all" GeneratePathProperty="true" />
     <PackageReference Include="Microsoft.VisualStudio.Threading" Version="17.4.27" PrivateAssets="all" GeneratePathProperty="true" />
     <PackageReference Include="Microsoft.VisualStudio.Validation" Version="17.0.64" PrivateAssets="all" GeneratePathProperty="true" />
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.3">
