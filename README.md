@@ -24,3 +24,6 @@ Finally, add the Blazicon components to your Blazor pages/components.
 
 ## Parameters & Styling
 See the [Blazicons](https://github.com/kyleherzog/Blazicons) documentation for details on parameters and styling.
+
+## Credits
+Thanks to the creators of [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
