@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.4
+- [x] Updated to Font Awesome 6.4.2
+
 ## 1.3
 - [x] Updated to Font Awesome 6.4.0
 
