@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.6
+- [x] Updated to Font Awesome 6.5.1
+
 ## 1.5
 - [x] Updated Blazicons to v1.2.20
 
