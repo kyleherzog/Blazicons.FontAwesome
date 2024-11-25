@@ -5,26 +5,26 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IncludeBuildOutput>false</IncludeBuildOutput>
-    <Version>2.0</Version>
+    <Version>2.2</Version>
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Blazicons.Generating" Version="2.0.40" PrivateAssets="all" GeneratePathProperty="true" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.62" PrivateAssets="all" GeneratePathProperty="true" />
-    <PackageReference Include="Microsoft.VisualStudio.Threading" Version="17.10.48" PrivateAssets="all" GeneratePathProperty="true" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.71" PrivateAssets="all" GeneratePathProperty="true" />
+    <PackageReference Include="Microsoft.VisualStudio.Threading" Version="17.12.19" PrivateAssets="all" GeneratePathProperty="true" />
     <PackageReference Include="Microsoft.VisualStudio.Validation" Version="17.8.8" PrivateAssets="all" GeneratePathProperty="true" />
-    <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.4">
+    <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.11.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.10.0" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.11.0" PrivateAssets="all" />
     <PackageReference Include="CodeCasing" Version="3.0.3" PrivateAssets="all" GeneratePathProperty="true" />
-    <PackageReference Include="System.Threading.Tasks.Dataflow" Version="8.0.1" PrivateAssets="all" GeneratePathProperty="true" />
-    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="8.0.0">
+    <PackageReference Include="System.Threading.Tasks.Dataflow" Version="9.0.0" PrivateAssets="all" GeneratePathProperty="true" />
+    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" Version="17.10.48">
+    <PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" Version="17.12.19">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
@@ -32,7 +32,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="9.30.0.95878">
+    <PackageReference Include="SonarAnalyzer.CSharp" Version="9.32.0.97167">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>

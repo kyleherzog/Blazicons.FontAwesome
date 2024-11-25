@@ -1,8 +1,11 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 2.2
+- [x] Updated Font Awsome to v6.7.1
+
 ## 2.1
-- [x] Updated Font Awesom to v6.6.0
+- [x] Updated Font Awesome to v6.6.0
 
 ## 2.0
 - [x] Updated Blazicons to v2.0.28
