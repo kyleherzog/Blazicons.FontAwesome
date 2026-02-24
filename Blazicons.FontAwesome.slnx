@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="azure-pipelines-build.yml" />
+    <File Path="CHANGELOG.md" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Blazicons.FontAwesome.Regular/Blazicons.FontAwesome.Regular.csproj" />
+  <Project Path="Blazicons.FontAwesome.Solid/Blazicons.FontAwesome.Solid.csproj" />
+  <Project Path="Blazicons.FontAwesome/Blazicons.FontAwesome.csproj" />
+</Solution>

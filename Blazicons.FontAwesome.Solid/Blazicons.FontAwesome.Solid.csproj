@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0;net10.0</TargetFrameworks>
+    <LangVersion>14.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <IsTrimmable>true</IsTrimmable>
+    <DevelopmentDependency>true</DevelopmentDependency>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <BlaziconsRepoUrl>https://github.com/FortAwesome/Font-Awesome/archive/refs/heads/7.x.zip</BlaziconsRepoUrl>
+    <BlaziconsSvgPattern>^svgs/solid/.*\.svg$</BlaziconsSvgPattern>
+    <BlaziconsClassName>FontAwesomeSolidIcon</BlaziconsClassName>
+    <BlaziconsSvgFolderPath>svgs/solid</BlaziconsSvgFolderPath>
+    <BlaziconsGeneratedCodeOutputPath>..\Blazicons.FontAwesome\Generated</BlaziconsGeneratedCodeOutputPath>
+    <BlaziconsGeneratorPath>Blazicons.FontAwesome.Generating/Blazicons.FontAwesome.Generating.FontAwesomeGenerator</BlaziconsGeneratorPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Blazicons" Version="3.0.12" />
+    <PackageReference Include="Blazicons.Generating" Version="3.2.28">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>

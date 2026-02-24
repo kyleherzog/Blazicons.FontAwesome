@@ -5,7 +5,7 @@ Check out the [Demo Site](http://blazicons.com).
 
 ![Nuget](https://img.shields.io/nuget/v/Blazicons.FontAwesome)
 
-[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.FontAwesome?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=19&branchName=main)
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status%2FBlazicons.FontAwesome?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=40&branchName=main)
 
 ## Getting Started
 To get started using the Font Awesome Blazicons, just install the Blazicons.FontAwesome NuGet package.
