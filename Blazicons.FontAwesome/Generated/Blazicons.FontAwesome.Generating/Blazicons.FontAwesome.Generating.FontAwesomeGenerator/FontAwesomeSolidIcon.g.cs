@@ -704,7 +704,7 @@ public static SvgIcon Battery => SvgIcon.FromContent("<path fill='currentColor' 
 /// <summary>
 /// Gets the Battery0 SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
-public static SvgIcon Battery0 => SvgIcon.FromContent("<path fill='currentColor' d='M112 160c-8.8 0-16 7.2-16 16l0 224c0 8.8 7.2 16 16 16l416 0c8.8 0 16-7.2 16-16l0-224c0-8.8-7.2-16-16-16l-416 0zM32 176c0-44.2 35.8-80 80-80l416 0c44.2 0 80 35.8 80 80l0 48c17.7 0 32 14.3 32 32l0 64c0 17.7-14.3 32-32 32l0 48c0 44.2-35.8 80-80 80l-416 0c-44.2 0-80-35.8-80-80l0-224z'></path>", attributeSet6);
+public static SvgIcon Battery0 => SvgIcon.FromContent("<path fill='currentColor' d='M112 64c-44.2 0-80 35.8-80 80l0 224c0 44.2 35.8 80 80 80l416 0c44.2 0 80-35.8 80-80l0-48c17.7 0 32-14.3 32-32l0-64c0-17.7-14.3-32-32-32l0-48c0-44.2-35.8-80-80-80L112 64zM96 144c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16l0 224c0 8.8-7.2 16-16 16l-416 0c-8.8 0-16-7.2-16-16l0-224z'></path>", attributeSet6);
 /// <summary>
 /// Gets the Battery2 SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
@@ -728,7 +728,7 @@ public static SvgIcon BatteryCar => SvgIcon.FromContent("<path fill='currentColo
 /// <summary>
 /// Gets the BatteryEmpty SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
-public static SvgIcon BatteryEmpty => SvgIcon.FromContent("<path fill='currentColor' d='M112 160c-8.8 0-16 7.2-16 16l0 224c0 8.8 7.2 16 16 16l416 0c8.8 0 16-7.2 16-16l0-224c0-8.8-7.2-16-16-16l-416 0zM32 176c0-44.2 35.8-80 80-80l416 0c44.2 0 80 35.8 80 80l0 48c17.7 0 32 14.3 32 32l0 64c0 17.7-14.3 32-32 32l0 48c0 44.2-35.8 80-80 80l-416 0c-44.2 0-80-35.8-80-80l0-224z'></path>", attributeSet6);
+public static SvgIcon BatteryEmpty => SvgIcon.FromContent("<path fill='currentColor' d='M112 64c-44.2 0-80 35.8-80 80l0 224c0 44.2 35.8 80 80 80l416 0c44.2 0 80-35.8 80-80l0-48c17.7 0 32-14.3 32-32l0-64c0-17.7-14.3-32-32-32l0-48c0-44.2-35.8-80-80-80L112 64zM96 144c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16l0 224c0 8.8-7.2 16-16 16l-416 0c-8.8 0-16-7.2-16-16l0-224z'></path>", attributeSet6);
 /// <summary>
 /// Gets the BatteryFull SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
@@ -948,7 +948,7 @@ public static SvgIcon BowlRice => SvgIcon.FromContent("<path fill='currentColor'
 /// <summary>
 /// Gets the Box SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
-public static SvgIcon Box => SvgIcon.FromContent("<path fill='currentColor' d='M369.4 128l-34.3-48-222.1 0-34.3 48 290.7 0zM0 148.5c0-13.3 4.2-26.3 11.9-37.2L60.9 42.8C72.9 26 92.3 16 112.9 16l222.1 0c20.7 0 40.1 10 52.1 26.8l48.9 68.5c7.8 10.9 11.9 23.9 11.9 37.2L448 416c0 35.3-28.7 64-64 64L64 480c-35.3 0-64-28.7-64-64L0 148.5z'></path>", attributeSet4);
+public static SvgIcon Box => SvgIcon.FromContent("<path fill='currentColor' d='M335.1 16c20.7 0 40.1 10 52.1 26.8l48.9 68.5c7.7 10.8 11.9 23.9 11.9 37.2L448 416c0 35.3-28.7 64-64 64l-320 0-6.5-.3C25.2 476.4 0 449.1 0 416L0 148.5c0-11.7 3.2-23.1 9.2-33l2.7-4.2 48.9-68.5c10.5-14.7 26.7-24.2 44.4-26.3l7.7-.5 222.1 0zM248 128l121.3 0-34.3-48-87.1 0 0 48zM78.7 128l121.3 0 0-48-87.1 0-34.3 48z'></path>", attributeSet4);
 /// <summary>
 /// Gets the BoxArchive SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
@@ -2788,7 +2788,7 @@ public static SvgIcon FileFragment => SvgIcon.FromContent("<path fill='currentCo
 /// <summary>
 /// Gets the FileHalfDashed SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
-public static SvgIcon FileHalfDashed => SvgIcon.FromContent("<path fill='currentColor' d='M64 0C28.7 0 0 28.7 0 64l0 256 384 0 0-149.5c0-17-6.7-33.3-18.7-45.3L258.7 18.7C246.7 6.7 230.5 0 213.5 0L64 0zM325.5 176L232 176c-13.3 0-24-10.7-24-24L208 58.5 325.5 176zM0 352l0 64 64 0 0-64-64 0zM64 512l0-64-64 0c0 35.3 28.7 64 64 64zm32 0l80 0 0-64-80 0 0 64zm112 0l80 0 0-64-80 0 0 64zm112 0c35.3 0 64-28.7 64-64l-64 0 0 64zm64-160l-64 0 0 64 64 0 0-64z'></path>", attributeSet2);
+public static SvgIcon FileHalfDashed => SvgIcon.FromContent("<path fill='currentColor' d='M64 512c-29.8 0-54.8-20.4-61.9-48l61.9 0 0 48zm104 0l-56 0 0-48 56 0 0 48zm104 0l-56 0 0-48 56 0 0 48zm109.9-48c-7.1 27.6-32.1 48-61.9 48l0-48 61.9 0zM48 416l-48 0 0-48 48 0 0 48zm336 0l-48 0 0-48 48 0 0 48zM213.5 0c17 0 33.2 6.8 45.2 18.8L365.3 125.2c12 12 18.7 28.3 18.7 45.2L384 320 0 320 0 64C0 28.7 28.7 0 64 0L213.5 0zM208 152c0 13.3 10.7 24 24 24l93.5 0-117.5-117.5 0 93.5z'></path>", attributeSet2);
 /// <summary>
 /// Gets the FileImage SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
@@ -4377,6 +4377,10 @@ public static SvgIcon LongArrowRight => SvgIcon.FromContent("<path fill='current
 /// Gets the LongArrowUp SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
 public static SvgIcon LongArrowUp => SvgIcon.FromContent("<path fill='currentColor' d='M182.6-22.6c-12.5-12.5-32.8-12.5-45.3 0l-128 128c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L128 77.3 128 512c0 17.7 14.3 32 32 32s32-14.3 32-32l0-434.7 73.4 73.4c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-128-128z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Lotus SvgIcon from the FontAwesomeSolidIcon library.
+/// </summary>
+public static SvgIcon Lotus => SvgIcon.FromContent("<path fill='currentColor' d='M169.7 227.5c34.3 18.7 64.5 44.1 88.8 74.5 11.1 13.9 21 28.9 29.4 44.8 8.5-15.9 18.3-30.8 29.4-44.8 24.3-30.5 54.5-55.9 88.8-74.5 41.7-22.7 89.4-35.5 139.7-35.5l9.9 0c11.1 0 20.1 9 20.1 20.1 0 148-119.9 267.9-267.9 267.9l-40.2 0C119.9 480 0 360.1 0 212.1 0 201 9 192 20.1 192l9.9 0c50.4 0 98.1 12.8 139.7 35.5zM303.9 38c16.9 15.9 61.4 63.4 89 142.3-40.1 20.2-75.8 48.2-104.9 82.1-29.2-33.9-64.8-61.8-104.9-82.1 27.6-78.9 72.2-126.4 89-142.3 4.3-4.1 10-6 15.9-6s11.6 2 15.9 6z'></path>", attributeSet5);
 /// <summary>
 /// Gets the LowVision SvgIcon from the FontAwesomeSolidIcon library.
 /// </summary>
